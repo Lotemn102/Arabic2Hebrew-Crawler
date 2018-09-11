@@ -1,4 +1,4 @@
-# JO24
+# Arabic2Hebrew-Crawler
 
 A web app based on Flask, that scrapes all news titles from the main page of an Arabic news website (['JO24'](https://www.jo24.net/))
 every 10 minutes.
