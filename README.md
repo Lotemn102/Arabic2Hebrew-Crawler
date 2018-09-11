@@ -5,6 +5,7 @@ every 10 minutes.
 The program filters the titles that are relevant to a predefined set of words, and scrapes their full text.
 It translates the full texts to Hebrew and saves the data to a database and to an excel sheet.
 This program requires the user to have PostgreSQL installed, since it saves the data locally.
+I've created this projects for my studies.
 
 ### Requierments
 
